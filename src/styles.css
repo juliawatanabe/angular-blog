@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+    /* reseta os valores, já que cada navegador tem margen e padding diferentes */
+    box-sizing: border-box;
+    /* define que o tamanho da caixa vai de borda a borda */
+    background-color: #FAFAFA;
+    color: #0B0C11;
+    font-family: Trebuchet MS;
+}
+
+a{
+    text-decoration: none;
+}

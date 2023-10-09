@@ -1,0 +1,15 @@
+.container__menu-title{
+    text-align: center;
+}
+
+.container__menu-title h1{
+    font-size: 3rem;
+    margin-top: 8px;
+    margin-bottom: 4px;
+}
+
+.container__menu-title p{
+    font-size: 1.5rem;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
