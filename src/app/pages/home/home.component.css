@@ -11,12 +11,4 @@
     margin: auto;
 }
 
-header{
-    border: solid pink 1px;
-    display: flex;
-    justify-content: center;
-    margin-top: 40px;
-    margin-bottom: 40px;
-}
-
 /* se o estilo altera o posicionamento do elemento na pagina (e não no componente) então é melhor colocar na estilo da pagina em que o componente está localizado */
