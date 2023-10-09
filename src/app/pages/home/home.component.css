@@ -1,12 +1,14 @@
 .articles{
     display: flex;
     flex-direction: row;
-    margin-top: 30px;
-    margin-left: 5%;
+    margin-top: 80px;
+    margin-left: 2%;
 }
 
-.articles__main{
-    margin-right: 4%;
+.articles__others{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
 }
 
 header{

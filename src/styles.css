@@ -1,4 +1,5 @@
 *{
+    overflow: hidden;
     margin: 0;
     padding: 0;
     /* reseta os valores, já que cada navegador tem margen e padding diferentes */
